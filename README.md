@@ -14,3 +14,5 @@ Ethics guidelines: http://stud.netgroup.uniroma2.it/~lorenzo/ethics.html
   - Jan Vermeer - Girl with a Pearl Earring - 1665
   - Hokusai - The Great Wave by at Kanagawa - c.1930
   - Pablo Picasso - The Old Guitarist - 1903
+
+Description of the dataset coming soon...
